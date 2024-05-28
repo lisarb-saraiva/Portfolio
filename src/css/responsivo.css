@@ -37,4 +37,8 @@
     .projetos {
         padding: 30px;
     }
+
+    .home .foto.sombra-interna{
+        height: 350px;
+    }
 }
