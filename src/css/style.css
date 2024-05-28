@@ -121,8 +121,9 @@ body {
   background: linear-gradient(to right, #8a35c9, #3118c0, #6161a7);
   background-size: 180% 180%;
   animation: gradient-animation 5s ease infinite;
+  max-width: 450px;
   border-radius: 50%;
-  height: 450px;
+  max-height: 450px;
 }
 
 .projetos {
